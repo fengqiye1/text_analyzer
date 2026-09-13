@@ -1,0 +1,3 @@
+Python is good.
+Python is powerful.
+I like Python.
