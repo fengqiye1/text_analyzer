@@ -1,3 +1,3 @@
-Python is good.
-Python is powerful.
-I like Python.
+Python is a powerful language for data analysis. AI models use Python to process text data.
+Data analysis with Python helps AI engineers build better models. A good model needs clean data.
+Text analysis is the first step of AI engineering. Model, data, and Python work              together?
